@@ -1,4 +1,2 @@
 # mellowny
-foo
-
-asdfa
+this is the readme
